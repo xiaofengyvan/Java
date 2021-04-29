@@ -1,4 +1,4 @@
-package Score;
+package com.xiaofengyvan.java;
 
 import java.util.Scanner;
 
